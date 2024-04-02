@@ -1,0 +1,25 @@
+body {
+  font-size: 14px;
+  color: #000000;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.App {
+  text-align: center;
+}
+
+.button-wrap Button {
+  background: #FFFFFF; /* Remove background color */
+  color: #0000CD;
+  border: 2px solid #214DCA; /* Add border instead of background */
+}
+
+.button-wrap Button:hover {
+  background: #FFFFFF; 
+  color: #0000CD;
+  border: 2px solid #000000; /* Change border color on hover */
+}
