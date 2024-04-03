@@ -5,8 +5,8 @@ import DialogActions from '@mui/material/DialogActions';
 import DialogContent from '@mui/material/DialogContent';
 import DialogContentText from '@mui/material/DialogContentText';
 import DialogTitle from '@mui/material/DialogTitle';
-import useFocusTrap from './hook/customeHook';
-import './App.css';
+import useFocusTrap from '../hook/customeHook';
+import '../styles.css'
 
 const Modal = () => {
   const [open, setOpen] = useState(false);

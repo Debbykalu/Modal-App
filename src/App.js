@@ -1,5 +1,5 @@
-import './App.css';
-import Modal from './Modal';
+import './styles.css';
+import Modal from './Components/Modal';
 
 function App() {
   return (

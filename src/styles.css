@@ -11,15 +11,13 @@ body {
 .App {
   text-align: center;
 }
-
 .button-wrap Button {
-  background: #FFFFFF; /* Remove background color */
+  background: #FFFFFF;
   color: #0000CD;
-  border: 2px solid #214DCA; /* Add border instead of background */
+  border: 2px solid #0000CD;
 }
-
 .button-wrap Button:hover {
   background: #FFFFFF; 
   color: #0000CD;
-  border: 2px solid #000000; /* Change border color on hover */
+  border: 2px solid #000000; 
 }
