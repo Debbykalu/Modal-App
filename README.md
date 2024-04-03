@@ -18,5 +18,5 @@ Press shift + tap to move arround the modal, then press escape button to open or
 
     Reactjs
     Material UI
-    CSS (all the colors are in WCAG standard, passed AA and AAA )
+    CSS (all the colors are in WCAG standard, passed AA and AAA tested on https://dequeuniversity.com/rules/axe/4.8/color-contrast?application=axeAPI)
     Jest testing
